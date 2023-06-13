@@ -1,0 +1,12 @@
+function plotComponent(array, titleText, xLabelText, yLabelText, alpha)
+    figure()
+    surf(array,'EdgeAlpha',alpha)
+    title(titleText)
+    xlabel(xLabelText)
+    ylabel(yLabelText)
+    colormap(redblue(array))
+    set(gcf,'Color','w')
+    view(2)
+    xlim([1 size(array,1)])
+    ylim([1 size(array,2)])
+end
