@@ -42,4 +42,4 @@ We would like to extend our gratitude to the following individuals for their con
 
 ## License
 
-WarpFactory is released under the [MIT License](https://opensource.org/licenses/MIT). We kindly request that all users of WarpFactory [cite their use of the code in published work.] (https://applied-physics.gitbook.io/warp-factory/general/citing-warp-factory)
+WarpFactory is released under the [MIT License](https://opensource.org/licenses/MIT). We kindly request that all users of WarpFactory [cite their use of the code in published work.](https://applied-physics.gitbook.io/warp-factory/general/citing-warp-factory)
