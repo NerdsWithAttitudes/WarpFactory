@@ -12,11 +12,9 @@ WarpFactory is a powerful numerical toolkit written in MATLAB for analyzing warp
 - Momentum flow visualizations
 - GPU utilization for accelerated computations
 
-## Gallery
-
-|![Stress Energy Tensor Animation](Visualizer/images/AlcubierreMomentumFlow.gif)|![Warp Drive Render](Visualizer/images/Alcubierre_v0P5_4K_3.png)|
-|:------------------------------:|:------------------------------:|
-|*Description 1*|*Description 2*|
+|![Stress Energy Tensor Animation](Visualizer/images/AlcubierreMomentumFlow.gif)|
+|:------------------------------:|
+|*Animation of the stress-energy tensor. Lighter regions in the cross-section correspond to higher energy densities. The blue lines demonstrate the direction of momentum flow within the warp drive.*|
 
 ## Documentation
 
