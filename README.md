@@ -6,9 +6,10 @@ WarpFactory is a powerful numerical toolkit written in MATLAB for analyzing warp
 
 ## Key Features
 
-- Energy condition evaluations for the point-wise Null, Weak, Dominant, and Strong
-- Metric scalar evaluation for the shear, expansion, and vorticity
 - 3D finite difference solver for the stress-energy tensor
+- Energy condition evaluations for the point-wise Null, Weak, Dominant, and Strong Energy Conditions
+- Metric scalar evaluation for the shear, expansion, and vorticity
+- Momentum flow visualizations
 - GPU utilization for accelerated computations
 
 ## Documentation
